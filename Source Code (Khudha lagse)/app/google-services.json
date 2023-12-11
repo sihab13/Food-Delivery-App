@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32313909760",
+    "project_id": "android-apps-60e44",
+    "storage_bucket": "android-apps-60e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32313909760:android:0e5ad47a637a065569eee5",
+        "android_client_info": {
+          "package_name": "com.food.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32313909760-dfahskr85gbi6f0r3idsfaf0hv0spe47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaVh7w27iCPISJ3RvTLVtFvdejd9XTvmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32313909760-dfahskr85gbi6f0r3idsfaf0hv0spe47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
